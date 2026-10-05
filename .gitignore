@@ -1,0 +1,25 @@
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Окружение и кэш Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Логи, базы, кэш бота
+*.log
+*.db
+*.sqlite
+lots_cache.json
+*.json.tmp
+
+# Библиотека FunPayAPI скачивается отдельно (см. SETUP.md): у исходного репозитория нет лицензии
+FunPayAPI/
+_upstream/
+
+# IDE
+.vscode/
+.idea/

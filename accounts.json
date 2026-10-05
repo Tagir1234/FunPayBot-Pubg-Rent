@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Акк 1",
+    "description": "пример описания",
+    "price": "",
+    "status": "free",
+    "free_until": null
+  },
+  {
+    "id": 2,
+    "title": "Акк 2",
+    "description": "пример описания",
+    "price": "",
+    "status": "free",
+    "free_until": null
+  }
+]
